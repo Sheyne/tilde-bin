@@ -1,0 +1,3 @@
+#! /bin/bash
+
+ssh mathlab "lp -dmc155c1 -" <&0
